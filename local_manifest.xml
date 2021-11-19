@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/certus" name="kbt69/android_device_xiaomi_certus/tree/" remote="github" revision="10-alps" />
+ <project path="vendor/certus" name="kbt69/proprietary_vendor_xiaomi/tree/" remote="github" revision="10-alps"
+ <project path="kernel/certus="kbt69/android_kernel_xiaomi_mt6765" remote="github" revision="10-alps"
+ 
+</manifest>
