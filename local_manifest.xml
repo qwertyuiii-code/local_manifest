@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/certus" name="kbt69/android_device_xiaomi_certus/tree/" remote="github" revision="10-alps" />
- <project path="vendor/certus" name="kbt69/proprietary_vendor_xiaomi/tree/" remote="github" revision="10-alps" />
+ <project path="vendor/xiaomi" name="kbt69/proprietary_vendor_xiaomi/tree/" remote="github" revision="10-alps" />
  <project path="kernel/xiaomi/mt6765" name="qwertyuiii-code/android_kernel_xiaomi_mt6765" remote="github" revision="10-alps" />
  
 </manifest>
